@@ -18,6 +18,7 @@ let autos = [{
     anio:2019,
     patente:'KKJ116',
     vendido: false
-}]
+},
+]
 
 module.exports = autos
